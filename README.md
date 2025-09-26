@@ -44,3 +44,4 @@ I am an AI and Data Science practitioner, currently interning at **Itobuz Techno
 -  [GitHub](https://github.com/23-01-2004)
 -  [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
 -  [Email](23subhasmukherjee@gmail.com)
+-  [Medium](https://medium.com/@23subhasmukherjee)
